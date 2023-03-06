@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+// Breakpoints
+
+$bp-xsmall: 320px;
+$bp-small: 599px;
+$bp-medium: 768px;
+$bp-large: 979px;
+$bp-xlarge: 1199px;
+
+// Spacing //
+
+$small: 5px;
+$gap: 10px;
+$box-spacing: 20px;
+$trim: 30px;
+$trim-small: 15px;
+$large: 50px;
+$x-large: 80px;
+$big: 100px;
+
+// Colors
+
+$c-blue: #3B44F6;
+$c-light-blue: #767CF9;
+$c-light-blue-02: #D8DAFD;
+$c-cyan: #00D7FF;
+$c-cyan-02: #66E7FF;
+$c-cyan-03: #CCF7FF;
+$c-white: #FFFFFF;
+$c-white-02: #F5F4F9;
+$c-gray: #A0A0A0;
+$c-black: #181818;
+$c-black-02: #323232;
+$c-gray-02: #525252;
+$c-li: #EFEFEFB2;
+$c-pink: #FC326F;
+$c-gray-03: #7D7D7D;
+$c-button: #F0F0F0;
+$c-free: #D8DAFD;
+$c-button-02: #FC326F33;
+$c-background: #0E0E0E;
+
+// Typography
+
+$f-stack-sans: 'Lexend', sans-serif;
+$f-stack-roboto: 'Roboto', sans-serif;
+
+// Body Copy
+
+$f-size-default: 20px;
